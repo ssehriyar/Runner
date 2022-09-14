@@ -1,7 +1,4 @@
 # Runner Unity ver 2020.3.33f1
-To download repository open gitbash and write
-$ git clone https://github.com/ssehriyar/Runner.git
-
 
 
 https://user-images.githubusercontent.com/33117295/163465892-8a12ec78-d896-4272-8389-5c3f7a3e219a.mp4
